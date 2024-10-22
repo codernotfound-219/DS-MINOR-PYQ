@@ -1,6 +1,6 @@
 # PYQ
 
-## files:
+## FOLDERS:
 
-1. infix_to_postfix_with_validation.cpp
-2. class_DLL.cpp
+1. **PYQ/** - infix_to_postfix_with_validation, ticket_reservation, dll_class
+2. **MINOR-2/** - priorityQueue on complex numbers
